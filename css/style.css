@@ -130,7 +130,7 @@ body {
 }
 
 
-@media (max-width: 974px ){
+@media only all and (max-device-width: 974px ){
 	
 	#main {
 		display: grid;
